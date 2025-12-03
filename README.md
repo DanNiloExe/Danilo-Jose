@@ -43,6 +43,7 @@
   align-items: center;
   gap: 10px;
   background: #0A66C2;
+  gap: 14px;
   color: white;
   padding: 12px 18px;
   text-decoration: none;
@@ -59,6 +60,7 @@
   align-items: center;
   gap: 10px;
   background: #24292f;
+  gap: 14px;
   color: white;
   padding: 12px 18px;
   text-decoration: none;
