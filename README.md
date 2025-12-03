@@ -35,7 +35,7 @@
     “Criatividade é uma baita solução”
   </blockquote>
 
-  <h3> Redes </h3>
+  <h3>🌐 Redes </h3>
 
 </a>
 <a href="https://www.linkedin.com/in/danilo-jos%C3%A9-45890b343/" target="_blank" style="
