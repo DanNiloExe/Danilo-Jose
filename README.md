@@ -51,7 +51,7 @@
   font-family: Arial;
 ">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
-  <span style="font-size: 16px; font-weight: bold;">Meu LinkedIn</span>
+  <span style="font-size: 16px; font-weight: bold;">   Meu LinkedIn</span>
 </a>
 
 <a href="https://github.com/DanNiloExe" target="_blank" style="
@@ -67,7 +67,7 @@
   font-family: Arial;
 ">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="22">
-  <span style="font-size: 16px; font-weight: bold;">Meu GitHub</span>
+  <span style="font-size: 16px; font-weight: bold;">   Meu GitHub</span>
 </a>
 
 
