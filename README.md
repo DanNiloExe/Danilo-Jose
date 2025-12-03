@@ -36,44 +36,9 @@
   </blockquote>
 
   <h3> Redes </h3>
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank" style="
-  display: inline-block;
-  padding: 12px 20px;
-  background: #0A66C2;
-  color: white;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
-  font-family: Arial;
-">
-  💼 Meu LinkedIn
+
 </a>
-  
 <a href="https://www.linkedin.com/in/danilo-jos%C3%A9-45890b343/" target="_blank" style="
-  display: inline-block;
-  padding: 14px 22px;
-  color: white;
-  background-color: #0A66C2;
-  border-radius: 6px;
-  text-decoration: none;
-  font-family: Arial;
-  font-weight: bold;
-">
-  Conectar no LinkedIn
-</a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank" style="
-  display: inline-block;
-  padding: 14px 22px;
-  color: white;
-  background-color: #0A66C2;
-  border-radius: 6px;
-  text-decoration: none;
-  font-family: Arial;
-  font-weight: bold;
-">
-  Conectar no LinkedIn
-</a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank" style="
   display: flex;
   align-items: center;
   gap: 10px;
@@ -87,6 +52,22 @@
 ">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
   <span style="font-size: 16px; font-weight: bold;">Meu LinkedIn</span>
+</a>
+
+<a href="https://github.com/DanNiloExe" target="_blank" style="
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #24292f;
+  color: white;
+  padding: 12px 18px;
+  text-decoration: none;
+  border-radius: 8px;
+  width: fit-content;
+  font-family: Arial;
+">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="22">
+  <span style="font-size: 16px; font-weight: bold;">Meu GitHub</span>
 </a>
 
 
