@@ -36,8 +36,7 @@
   </blockquote>
 
   <h3>🌐 Redes </h3>
-<ul><
-
+<ul>
 </a>
 <li><a href="https://www.linkedin.com/in/danilo-jos%C3%A9-45890b343/" target="_blank" style="
   display: flex;
@@ -74,7 +73,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="22">
   <span style="font-size: 16px; font-weight: bold;">   Meu GitHub</span>
 </a>
-</li>
-/ul>
-
+  </li>
+    </ul>
 </div>
