@@ -31,12 +31,6 @@
     <li>Aperfeiçoando constantemente minhas habilidades no mundo dos códigos.</li>
   </ul>
 
-  <h3>🎓 Certificações</h3>
-  <ul>
-    <li><strong>Inglês para Devs</strong> — Rocketseat</li>
-    <li><strong>Masterclass: IA</strong> — Rocketseat</li>
-  </ul>
-
   <blockquote style="border-left: 4px solid #ccc; padding-left: 10px; color: #555;">
     “Construindo pontes entre a informação, a tecnologia e o impacto social.”
   </blockquote>
