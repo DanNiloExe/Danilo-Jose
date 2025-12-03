@@ -4,7 +4,7 @@
   <p><em>Ele/Dele</em></p>
 
   <p>
-    📚 Estudante de <strong>Biblioteconomia</strong> na UFPE<br>
+    📚 Formando de <strong>Biblioteconomia</strong> na UFPE<br>
     🖥️ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FICR
   </p>
 
