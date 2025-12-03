@@ -36,9 +36,10 @@
   </blockquote>
 
   <h3>🌐 Redes </h3>
+<ul><
 
 </a>
-<a href="https://www.linkedin.com/in/danilo-jos%C3%A9-45890b343/" target="_blank" style="
+<li><a href="https://www.linkedin.com/in/danilo-jos%C3%A9-45890b343/" target="_blank" style="
   display: flex;
   align-items: center;
   gap: 10px;
@@ -54,8 +55,10 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
   <span style="font-size: 16px; font-weight: bold;">   Meu LinkedIn</span>
 </a>
+</li>
 
-<a href="https://github.com/DanNiloExe" target="_blank" style="
+<li> 
+  <a href="https://github.com/DanNiloExe" target="_blank" style="
   display: flex;
   align-items: center;
   gap: 10px;
@@ -71,6 +74,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="22">
   <span style="font-size: 16px; font-weight: bold;">   Meu GitHub</span>
 </a>
-
+</li>
+/ul>
 
 </div>
