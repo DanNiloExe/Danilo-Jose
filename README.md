@@ -35,4 +35,19 @@
     “Criatividade é uma baita solução”
   </blockquote>
 
+  <h3> Redes </h3>
+<a href="https://www.linkedin.com/in/danilo-jos%C3%A9-45890b343/" target="_blank" style="
+  display: inline-block;
+  padding: 14px 22px;
+  color: white;
+  background-color: #0A66C2;
+  border-radius: 6px;
+  text-decoration: none;
+  font-family: Arial;
+  font-weight: bold;
+">
+  Conectar no LinkedIn
+</a>
+
+
 </div>
